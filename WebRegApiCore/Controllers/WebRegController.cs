@@ -49,7 +49,7 @@ namespace WebRegApiCore.Controllers
             String cConStr = GetConnection(ref cErr);
 
             if (string.IsNullOrEmpty(cConStr))
-                return BadRequest(new {Message=cErr});
+                return Accepted(new {Message=cErr});
 
             dynamic result = new ExpandoObject();
             dynamic retResult = new ExpandoObject();
