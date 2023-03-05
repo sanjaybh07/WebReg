@@ -16,6 +16,8 @@ using System.Drawing;
 using System.Security.Cryptography.X509Certificates;
 using System.Runtime.InteropServices;
 
+
+//new commendt here
 namespace WebRegApiCore.App_methods
 {
     public class regMethods
