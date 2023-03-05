@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mMtU5fOGIXtxoI6xiD2VHqXCJAXbtkBnOsxLl4jquFo=",
+  "Source": "RestRegService",
+  "BasePath": "_content/RestRegService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
