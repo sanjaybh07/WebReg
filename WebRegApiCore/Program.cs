@@ -10,7 +10,7 @@ using System.Text;
 using WebRegApiCore;
 using static IdentityModel.ClaimComparer;
 
-//var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
 
 var builder = WebApplication.CreateBuilder(args);
